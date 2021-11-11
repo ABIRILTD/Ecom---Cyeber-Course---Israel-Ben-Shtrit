@@ -1,6 +1,6 @@
 /*
 *
-* Author: Israel Ben Shtrit
+* Author: Israel Ben Shitrit
 *
 * Date: ה' כסליו תשפ"ב (9 Nov 21)
 *
