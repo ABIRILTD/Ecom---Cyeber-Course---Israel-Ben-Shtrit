@@ -1,0 +1,58 @@
+/*
+*
+* Author: Israel Ben Shtrit
+*
+* Date: ה' כסליו תשפ"ב (9 Nov 21)
+*
+* License: GPL v2 
+*
+*/
+
+========================================
+LINUX PRINCIPLES, COMMANDS & DEFINITIONS
+========================================
+
+
+===================
+    PRINCIPLES
+===================
+
+1. In Linux everything is a file.
+2. 
+
+
+===================
+    DEFINITIONS
+===================
+1. absolute path
+2. relative path
+3. FHS
+
+Navigating  Files 
+-----------------
+1.  ls
+2.  ls -a
+3.  ls -l
+4.  ll
+5.  la
+6.  l -m
+7.  ls <absolute \ relative path>
+8.  cd <absolute \ relative path>
+9.  cd ~ 
+10. cd /
+
+Showing & Editing Files \ Directories  
+---------------------------------------
+1. cat <file-name>
+2. less <file-name>
+3. nano <file-name\s>
+4. touch <file-name\s>
+5. mkdir <Directorie\s name\s>
+
+
+Finding Files & Directories  
+-----------------------------
+1. find
+2. wc 
+3. head
+4. tail
