@@ -18,7 +18,7 @@ LINUX PRINCIPLES, COMMANDS & DEFINITIONS
 ===================
 
 1. In Linux everything is a file.
-2. 
+
 
 
 ===================
